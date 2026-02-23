@@ -15,6 +15,13 @@ The solution is organized into three core layers:
 * **Gold Layer**
   Business-ready, aggregated data layer. Optimized tables are created for analytical and reporting purposes, supporting KPIs and performance analysis.
 
+## ERD diagram
+
+<p align="center">
+  <img width="591" height="707" alt="image" src="https://github.com/user-attachments/assets/673069de-4ad4-43e7-8be9-48f585e3a5d5" />
+</p>
+
+
 ### Analysis
 
 The project includes:
