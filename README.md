@@ -18,7 +18,7 @@ The solution is organized into three core layers:
 ## ERD diagram
 
 <p align="center">
-  <img width="591" height="707" alt="image" src="https://github.com/user-attachments/assets/673069de-4ad4-43e7-8be9-48f585e3a5d5" />
+  <img width="588" height="697" alt="image" src="https://github.com/user-attachments/assets/a55095a1-2231-42bd-a0b1-51734c6fc211" />
 </p>
 
 
